@@ -7,11 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/bhavikgajera009" target="blank"><img src="https://img.shields.io/twitter/follow/bhavikgajera009?logo=twitter&style=for-the-badge" alt="bhavikgajera009" /></a> </p>
 
+- 📫 How to reach me **bhavikgajera@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhavikgajera009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavikgajera009" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavik-gajera-60112132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavik-gajera-60112132" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9244704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9244704" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bhavikgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhavikgajera" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/bhavikgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bhavikgajera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
