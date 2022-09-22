@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhavikgajera009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavikgajera009" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavikgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavikgajera" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bhavik gajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhavik gajera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavik-gajera-60112132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavik-gajera-60112132" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9244704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9244704" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
